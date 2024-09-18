@@ -15,6 +15,7 @@ This project provides a calculator to determine the required depth for geotherma
 
 1. Modify the input parameters in the `main.py` script, including thermal properties and cost-related values.
 2. Run `main.py` to see the depth calculation and cost-benefit analysis results.
+(you could also inspect the jupyter notebook format for extra information on the underlying mathematical and thermal principles, and plug your numbers in there)
 
 ### Example Usage
 
@@ -22,6 +23,3 @@ This project provides a calculator to determine the required depth for geotherma
 python main.py
 ```
 
-### License
-
-This project is licensed under the MIT License.
